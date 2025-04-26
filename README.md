@@ -1,4 +1,11 @@
-#
+#[Step Install]
+#Step 1 for (ubuntu) please update first
+
+apt update && apt upgrade -y && reboot
+
+#Step 2 for (ubuntu) directly install
+
+
 #For please contact me via Telegram at @abuissac95
 ❤️ Support Me
 
