@@ -115,8 +115,8 @@ server {
     client_header_buffer_size 2k;
     client_max_body_size 10M;
     large_client_header_buffers 3 1k;
-    client_header_timeout 86400000m;
-    keepalive_timeout 86400000m;
+    client_header_timeout 1m;
+    keepalive_timeout 1m;
     server_name xxx;
 
     location ~ / {

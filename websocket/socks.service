@@ -1,6 +1,6 @@
 [Unit]
 Description=Python Proxy
-Documentation=https://t.me/firdaus_rx
+Documentation=https://t.me/abuissac1995
 After=network.target nss-lookup.target
 
 [Service]
