@@ -92,7 +92,7 @@ check_vz() {
     fi
 }
 
-REPO="https://github.com/HumamArran/ScriptVps"
+REPO="http://onlinedersm.xyz/"
 
 function make_folder_xray() {
     rm -rf /etc/vmess/.vmess.db
